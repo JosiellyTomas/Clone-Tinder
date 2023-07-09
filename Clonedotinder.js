@@ -1,0 +1,1 @@
+$('#recua').modal(show);
